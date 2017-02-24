@@ -1,1 +1,2 @@
 # networkDiffusion_mediatorComplex
+Initially for Computational Biology class. Goal is to find clues to the differences between the functions of the protein homologs in the Mediator Complex (e.g. MED12 vs MED12L, CDK8 vs CDK19 and MED13 vs MED13L). The method tried spreads attenuating activation starting from the nodes corresponding to the proteins in question and ranks other proteins in the network based on normalized differneces of the amount of activation reached it from the source proteins
